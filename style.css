@@ -141,7 +141,7 @@ button {
     justify-content: space-between;
     align-items: center;
     margin: 100px 100px;
-    background-color: plum;
+    background-color: #3882F6;
     border-radius: 8px;
     padding: 40px 80px;
     gap: 12px
@@ -154,13 +154,26 @@ button {
 .signup-text-title {
     font-size: 20px;
     font-weight: bold;
+    color: white
 }
 
 .signup-text-subtitle {
     font-size: 18px;
+    color: white
 }
 
 .signup-button {
     font-size: 18px;
     flex: none;
+}
+
+
+/* Footer */
+.footer {
+    display: flex;
+    background-color: palevioletred;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    height: 90px;
 }
