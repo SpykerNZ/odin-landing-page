@@ -132,6 +132,7 @@ button:hover {
     align-items: center;
     background-color: lightgray;
     padding: 100px 100px;
+    gap: 16px;
 }
 
 .quote-text {
