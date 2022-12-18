@@ -178,6 +178,11 @@ button:hover {
 .signup-button {
     font-size: 18px;
     flex: none;
+    transition: .2s;
+}
+
+.signup-button:hover {
+    transform: scale(1.2);
 }
 
 
