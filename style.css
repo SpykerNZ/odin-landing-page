@@ -24,6 +24,11 @@ button {
     border-radius: 8px;
 }
 
+button:hover {
+    background-color: #2596be;
+    transition: 0.5s;
+}
+
 /* Header */
 
 .header {
