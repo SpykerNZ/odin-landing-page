@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+/* Header */
+
+.header {
+    display: flex;
+    background-color: plum;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+}
+
+.header img {
+    height: 40px;
+    margin: 0;
+    padding: 0;
+}
+
+.header-links{
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+  }
