@@ -117,8 +117,8 @@ button {
 .quote {
     display: flex;
     flex-direction: column;
-    background-color: lightgray;
     align-items: center;
+    background-color: lightgray;
     padding: 100px 100px;
 }
 
@@ -171,9 +171,9 @@ button {
 /* Footer */
 .footer {
     display: flex;
-    background-color: palevioletred;
+    background-color: lightgray;
     justify-content: center;
     align-items: center;
-    color: white;
+    color: black;
     height: 90px;
 }
