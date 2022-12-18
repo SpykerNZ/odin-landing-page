@@ -102,8 +102,10 @@ button {
 
 .items {
     display: flex;
+    justify-content: center;
     gap: 32px;
     text-align: center;
+    flex-wrap: wrap;
 }
 
 .item img {
