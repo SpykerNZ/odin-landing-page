@@ -111,3 +111,25 @@ button {
     border: 5px solid lightblue;
     margin-bottom: 10px;
 }
+
+/* Quote */
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    background-color: lightgray;
+    align-items: center;
+    padding: 100px 100px;
+}
+
+.quote-text {
+    font-size: 32px;
+    font-weight: 0;
+    font-style: oblique;
+}
+
+.quote-origin {
+    font-size: 24px;
+    font-weight: bolder;
+    align-self: flex-end;
+}
