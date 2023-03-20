@@ -7,7 +7,6 @@
 ## About
 
 - A landing page built using HTML and CSS
-- Press "Power" in the corner to turn on the calculator and get calculating!
 - The theme is based on JoJo's Bizarre Adventure Parts 1-6
 
 ## Acknowledgedment
